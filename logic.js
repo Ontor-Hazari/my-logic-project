@@ -1,6 +1,7 @@
-// Second Branch: Sum the two variables
+// Third Branch: Combine First and Second Logic
 let a = 5;
 let b = 10;
 let sum = a + b;
 
-console.log("Second Branch: Sum =", sum);
+console.log("Third Branch: Variables a =", a, "b =", b);
+console.log("Third Branch: Sum =", sum);

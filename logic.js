@@ -1,6 +1,6 @@
+// Second Branch: Sum the two variables
 let a = 5;
 let b = 10;
+let sum = a + b;
 
-
-console.log("First Branch: Variable a =",a,"b =",b);
-
+console.log("Second Branch: Sum =", sum);
